@@ -33,7 +33,9 @@ a.externo::after{
 
 body {
     background-color: var(--cor0);
-    font-family: var(--fonte-normal)
+    font-family: var(--fonte-normal);
+    background-image: url(imagens/bugdroid.png);
+    background-size: 150px;
    
 }
 header{
